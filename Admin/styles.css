@@ -1,0 +1,42 @@
+
+.login-page
+{
+	min-height:560px !important;
+}
+
+#profile_Drop nav ul li:hover .sub-menu
+{
+display:block !important;	
+}
+
+#profile_Drop nav li ul
+{
+	margin-left:-9em;
+	  top: 45px;
+    width: 176px;
+}
+
+	  #Mobile_menu1
+	{
+     display: none;
+    height: 30px;
+    position: relative;
+    top: 8px;
+    width: 30px;
+    z-index: 111;
+	float:left;
+	left:8px;
+	}
+	 
+ 
+	#admin_menu_display{
+		display:none;
+		  height: 30px;
+    position: relative;
+    top: 8px;
+    width: 30px;
+    z-index: 111;
+	float:left;
+	left:8px;
+	}
+	
