@@ -1,0 +1,19 @@
+<?php
+ob_start();
+session_start();
+session_destroy();
+
+$login_by=$_GET['req'];
+if($login_by=="goog")
+{
+	header('Location:https://www.sellatwork.com/sociallogin/redirect.php?req='.$login_by.'');
+}
+elseif($login_by=="fb")
+{
+	header('Location:https://www.sellatwork.com/sociallogin/facebook/index.php');
+}
+else
+{
+	header('Location:https://www.sellatwork.com/sociallogin/linkedin/process.php?req='.$login_by.'');
+}
+?>
