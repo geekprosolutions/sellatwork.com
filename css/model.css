@@ -1,0 +1,27 @@
+ .ui-widget.ui-widget-content
+	{
+		  background: #f8f8f8 none repeat scroll 0 0 !important;
+    border-radius: 0 0 5px 5px !important;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.157), 0 3px 10px rgba(0, 0, 0, 0.227) !important;
+    border: medium none;
+    height: 4px;
+    left: 571px !important;
+    margin-top: 10px;
+    top: 40px !important;
+    width: 401px !important;
+	height:410px !important;
+	}
+	 
+	 .ui-widget-header
+	 {
+	   background: transparent none repeat scroll 0 0 !important; 
+    border: medium none !important;
+	padding:0 !important;
+	}
+	   
+	   .ui-dialog .ui-dialog-content
+	   {
+		   height:100%;
+		   padding:0 !important;
+	   }
+	   

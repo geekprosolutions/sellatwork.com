@@ -1,0 +1,85 @@
+  .ui-tabs .ui-tabs-nav .ui-tabs-anchor
+{
+    color: #9cb1bb;
+    font-family: "Rubik",sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 16%;
+    padding: 13px 0 !important;
+    text-transform: uppercase;
+}	
+	
+	.ui-tabs .ui-tabs-nav .ui-tabs-anchor:focus
+	{
+	outline:none !important;
+	}
+	
+	   .setting_mail
+   {
+	    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: #ffffff none repeat scroll 0 0;
+    border-color: -moz-use-text-color -moz-use-text-color #bbb;
+    border-image: none;
+    border-style: none none solid;
+    border-width: medium medium 1px;
+    font-size: 1em;
+    margin: 0 0 1em;
+    outline: medium none;
+    padding: 0.9em 2px;
+    transition: all 0.5s ease 0s;
+    width: 100%;
+	color:#999;
+   }
+    
+.ui-widget-header
+{
+	background-color:#fff;
+}
+ 
+    #tabs	
+{
+						background-color: #fff !important  ;
+						height: auto !important  ;
+						padding-left: 10px;
+						padding-right: 10px;
+						width: 100%!important  ;
+}	
+ 
+.ui-tabs .ui-tabs-nav li.ui-tabs-active
+	   {
+		background: #fff none repeat scroll 0 0 !important;
+		border-radius: 0;    
+ 
+		font-weight: normal;
+	   }
+	   
+	   .ui-tabs .ui-tabs-panel
+	   {
+		   padding:0 !important;
+	   }
+	   
+	  .ui-tabs .ui-tabs-nav li
+		{
+			 background: transparent none repeat scroll 0 0 !important; 
+			border: medium none !important;
+			border-radius: 0 !important;
+			font-family: 'Roboto Condensed', sans-serif !important;
+		}
+		   
+		   .ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited
+		   {
+		 
+				outline:none !important;	
+				
+		   }
+		   
+		   .ui-tabs .ui-tabs-nav{
+			      background: transparent;
+				  margin: 0 0 1em;
+				padding: 6px 8px;
+				border:none !important;		 
+		   }
+		     
